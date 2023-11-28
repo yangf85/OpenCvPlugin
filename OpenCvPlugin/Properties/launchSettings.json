@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OpenCvPlugin": {
+      "commandName": "Executable",
+      "executablePath": "d:\\Program\\Rhino 7\\System\\Rhino.exe",
+      "commandLineArgs": "$(TargetPath)"
+    }
+  }
+}
